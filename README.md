@@ -1,4 +1,4 @@
-# APlikasi Upload Tugas harian
+# APlikasi Upload Tugas Harian Sederhana
 Berbasis Web
 
 PHP 7
